@@ -4,5 +4,6 @@
     <string name="app_name">GitAndroidHelloworld</string>
     <string name="hello_world">Hello world! changed here</string>
     <string name="action_settings">Settings</string>
+  
 
 </resources>
